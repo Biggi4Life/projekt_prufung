@@ -1,16 +1,18 @@
 
 .panel {
-	box-shadow: 2.5px 2.5px 2.5px grey;
+	box-shadow: 2.5px 2.5px 2.5px lightgreen;
 }
 
 .panel h3{
-	color:green;
+	color:black;
 }
 .row h1{
-	color:green;
+	color:black;
 }
 
 .row p{
+    color: black;
+
 
 }
  
@@ -26,9 +28,14 @@
 
 .kontakt h3{
     margin-left: 13.9%;
-    color: green;
+    color: lightgrey;
 }
-
+body{
+    background-color: rgb(31,99,44);
+}
+.panel{
+    background-color: rgb(146,255,150);
+}
 
 
 
