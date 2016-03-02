@@ -68,7 +68,7 @@
           }
 
           if (/\.(gif|jpg|jpeg|tiff|png)([?#].*)?/i.test(path)) {
-            $(el).css('background-image', 'url(' + path + ')');
+            $(el).css('background-image', 'url('+path+')');
             el.data('interchange-last-path', path);
             return trigger(path);
           }
