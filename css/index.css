@@ -26,12 +26,13 @@
 
 
 
-.kontakt h3{
-    margin-left: 15.9%;
-    
-}
+
 .panel{
     background-color: #EFFBFB;
+}
+.kontakt{
+    margin-left: 46.5%;
+    text-shadow: 1.5px 1.5px 1.5px grey;
 }
 
 
@@ -48,6 +49,7 @@ body {
   position: relative;
   cursor: default;
 }
+
 
 
 
