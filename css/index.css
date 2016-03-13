@@ -25,7 +25,7 @@
 }
 
 .header_top{
-  background: url(../img/bg.png);
+background-image:url(../img/title.background.jpg);
   height: 200px !important;
   width: 100%;
   /*Macht das Backgound vollflächig ausgefüllt wird!*/
@@ -33,19 +33,18 @@
 }
 
 .header_top h1{
-  color: black;
+  color: white;
   text-align: center;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Asap', sans-serif;
   position: absolute;
   top: 60px;
   width: 100%;
-  text-shadow: 0px 0px 9px rgba(150, 150, 150, 1);
   text-transform: uppercase;
 }
 
 
 .panel{
-    background-color: #EFFBFB;
+    background-color: lightgrey;
 }
 .kontakt{
     margin-left: 46.5%;
@@ -56,8 +55,8 @@
 
 
 body {
-  background-image:url(../img/bg.png);
-  color: #000;
+   background-image:url(../img/title.background.jpg);
+   color: #000;
   padding: 0;
   margin: 0;
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
